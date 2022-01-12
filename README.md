@@ -1,4 +1,4 @@
-# Self-Driving Cars Explained.
+# Self-Driving Cars Explained
 
 
 ### Overview
